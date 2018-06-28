@@ -16,4 +16,7 @@ sudo apt-get update && sudo apt-get install yarn
 **再次安装**
 
 `sudo apt-get update && sudo apt-get install yarn`
+
+**运行**
+
 `yarn install`
