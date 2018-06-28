@@ -11,27 +11,42 @@ sudo apt-get update && sudo apt-get install yarn
 
 **把cmdtest卸载**
 
-`sudo apt-get remove --purge cmdtest`
+```
+sudo apt-get remove --purge cmdtest
+```
 
 **再次安装**
 
-`sudo apt-get update && sudo apt-get install yarn`
+```
+sudo apt-get update && sudo apt-get install yarn
+```
 
 **运行**
 
-`yarn install`
+```
+yarn install
+```
 
 **安装node**
 
-`sudo apt-get install nodejs-legacy nodejs`
+```
+sudo apt-get install nodejs-legacy nodejs
+```
 
 **安装npm**
 
-`sudo apt-get install npm`
+```
+sudo apt-get install npm
+```
 
 **安装n**
 
-`sudo npm install -g n`
+```
+sudo npm install -g n
+```
 
 **稳定版本**
-`sudo n stable`
+
+```
+sudo n stable
+```
