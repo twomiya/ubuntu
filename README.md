@@ -1,4 +1,4 @@
-# ubuntu安装
+# ubuntu下安装软件
 **安装yarn**
 ```
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
